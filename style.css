@@ -9,3 +9,7 @@ body {
   padding: 0.5em;
   background: #82baf7;
 }
+
+#class-list li {
+  margin-bottom: 0.75em;
+}
